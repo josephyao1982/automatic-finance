@@ -1,2 +1,3 @@
 # automatic-finance
-my first repository on github
+my first
+i love :coffee:,:pizza: and:dancer:
